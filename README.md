@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanisha Agrawal</h1>
-<h3 align="center">🚀 Front-End Developer | 2x Hackathon Winner | Open Source Enthusiast</h3>
+<h3 align="center">🚀 Front-End Developer | 2x Hackathon Winner | Cloud Computing Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/tanishaagrawal18">
@@ -16,24 +16,24 @@
 ---
 
 ### 🏆 Achievements
-- [cite_start]🥇 Winner - **Dev Hacks** (National Level Hackathon) organized by Chameli Devi Group of Institutes in 2025 [cite: 39, 106]
-- [cite_start]🥇 Winner - **Supra Web3 Ideathon** – Awarded Best Web3 Idea in 2025 [cite: 40, 107]
-- [cite_start]Research Paper Accepted – **IEEE ACROSET 2025** [cite: 108]
+- 🥇 Winner - **Dev Hacks** (National Level Hackathon) organized by Chameli Devi Group of Institutes in 2025 
+- 🥇 Winner - **Supra Web3 Ideathon** – Awarded Best Web3 Idea in 2025 
+- Research Paper Accepted – **IEEE ACROSET 2025** 
 
 ---
 
 ### 💼 Experience
-- [cite_start]🛠️ **Software Engineer Intern** – *Protonshub, Indore* (Nov 2023 – Feb 2024) [cite: 76, 77, 78]
-  - [cite_start]Contributed to Pivott.ai, an in-house AI-powered CRM tool, using React.js, Node.js, and Express.js. [cite: 79]
-  - [cite_start]Built responsive UIs with HTML5, CSS, TailwindCSS, and JavaScript to enhance user experience and accessibility. [cite: 80]
-  - [cite_start]Collaborated directly with clients to gather requirements, clarify use cases, and deliver tailored solutions. [cite: 81]
+- 🛠️ **Software Engineer Intern** – *Protonshub, Indore* (Nov 2023 – Feb 2024) 
+  - Contributed to Pivott.ai, an in-house AI-powered CRM tool, using React.js, Node.js, and Express.js. 
+  - ]Built responsive UIs with HTML5, CSS, TailwindCSS, and JavaScript to enhance user experience and accessibility. 
+  - Collaborated directly with clients to gather requirements, clarify use cases, and deliver tailored solutions. 
 
 ---
 
 ### 📜 Certifications and Training
-- [cite_start]✅ **TechSaksham Training and Certification** by Microsoft And SAP in Full-Stack Web Development using the MERN stack in 2025 [cite: 102]
-- [cite_start]✅ **DataFlair Certification** in Data Structures and Algorithms using C and C++ in 2025 [cite: 41, 103]
-- [cite_start]✅ **NPTEL Certification** in Problem Solving Through Programming in C in 2024 [cite: 41, 104]
+- ✅ **TechSaksham Training and Certification** by Microsoft And SAP in Full-Stack Web Development using the MERN stack in 2025 
+- ✅ **DataFlair Certification** in Data Structures and Algorithms using C and C++ in 2025 
+- ✅ **NPTEL Certification** in Problem Solving Through Programming in C in 2024
 
 ---
 
@@ -52,7 +52,7 @@
 ---
 
 ### 📫 Contact Me:
-- [cite_start]📧 **agrawaltanisha222@gmail.com** [cite: 4, 70]
-- [cite_start]🔗 [LinkedIn](https://www.linkedin.com/in/tanishaagrawal18/) [cite: 5, 70]
-- [cite_start]깃허브 [GitHub](https://github.com/tanishaagrawal18) [cite: 5, 70]
+- 📧 **agrawaltanisha222@gmail.com** 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tanishaagrawal18/) 
+-  [GitHub](https://github.com/tanishaagrawal18) 
 ---
