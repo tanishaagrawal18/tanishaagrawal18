@@ -25,7 +25,7 @@
 ### 💼 Experience
 - 🛠️ **Software Engineer Intern** – *Protonshub, Indore* (Nov 2023 – Feb 2024) 
   - Contributed to Pivott.ai, an in-house AI-powered CRM tool, using React.js, Node.js, and Express.js. 
-  - ]Built responsive UIs with HTML5, CSS, TailwindCSS, and JavaScript to enhance user experience and accessibility. 
+  - Built responsive UIs with HTML5, CSS, TailwindCSS, and JavaScript to enhance user experience and accessibility. 
   - Collaborated directly with clients to gather requirements, clarify use cases, and deliver tailored solutions. 
 
 ---
@@ -54,5 +54,5 @@
 ### 📫 Contact Me:
 - 📧 **agrawaltanisha222@gmail.com** 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tanishaagrawal18/) 
--  [GitHub](https://github.com/tanishaagrawal18) 
+- 🔗[GitHub](https://github.com/tanishaagrawal18) 
 ---
